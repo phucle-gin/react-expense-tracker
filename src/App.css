@@ -125,6 +125,24 @@ input[type='number'] {
   padding: 10px;
   width: 100%;
 }
+.btn {
+  cursor: pointer;
+  background-color: #9c88ff;
+  box-shadow: var(--box-shadow);
+  color: #fff;
+  border: 0;
+  display: block;
+  font-size: 16px;
+  margin: 10px 0 30px;
+  padding: 10px;
+  width: 100%;
+}
+
+.btn:focus,
+.delete-btn:focus {
+  outline: 0;
+}
+
 @media (max-width: 320px) {
   .container {
     width: 300px;
