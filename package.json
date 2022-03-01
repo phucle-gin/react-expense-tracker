@@ -1,6 +1,6 @@
 {
   "homepage": "http://phucle-gin.github.io/react-expense-tracker",
-  "name": "expense-tracker-react",
+  "name": "react-expense-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
