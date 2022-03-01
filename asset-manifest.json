@@ -1,15 +1,15 @@
 {
   "main.css": "/react-expense-tracker/static/css/main.af0397df.chunk.css",
-  "main.js": "/react-expense-tracker/static/js/main.55bf559e.chunk.js",
-  "main.js.map": "/react-expense-tracker/static/js/main.55bf559e.chunk.js.map",
-  "static/js/1.0d02fb3f.chunk.js": "/react-expense-tracker/static/js/1.0d02fb3f.chunk.js",
-  "static/js/1.0d02fb3f.chunk.js.map": "/react-expense-tracker/static/js/1.0d02fb3f.chunk.js.map",
+  "main.js": "/react-expense-tracker/static/js/main.0534b790.chunk.js",
+  "main.js.map": "/react-expense-tracker/static/js/main.0534b790.chunk.js.map",
+  "static/js/1.35d56aae.chunk.js": "/react-expense-tracker/static/js/1.35d56aae.chunk.js",
+  "static/js/1.35d56aae.chunk.js.map": "/react-expense-tracker/static/js/1.35d56aae.chunk.js.map",
   "static/js/2.058752fe.chunk.js": "/react-expense-tracker/static/js/2.058752fe.chunk.js",
   "static/js/2.058752fe.chunk.js.map": "/react-expense-tracker/static/js/2.058752fe.chunk.js.map",
   "runtime~main.js": "/react-expense-tracker/static/js/runtime~main.b9a64ff4.js",
   "runtime~main.js.map": "/react-expense-tracker/static/js/runtime~main.b9a64ff4.js.map",
   "static/css/main.af0397df.chunk.css.map": "/react-expense-tracker/static/css/main.af0397df.chunk.css.map",
   "index.html": "/react-expense-tracker/index.html",
-  "precache-manifest.5d89dce50649edf3db4f622dad9059a9.js": "/react-expense-tracker/precache-manifest.5d89dce50649edf3db4f622dad9059a9.js",
+  "precache-manifest.d825f36a8a6cfbe2bb4e62af8280f787.js": "/react-expense-tracker/precache-manifest.d825f36a8a6cfbe2bb4e62af8280f787.js",
   "service-worker.js": "/react-expense-tracker/service-worker.js"
 }
