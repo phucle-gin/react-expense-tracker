@@ -9,7 +9,8 @@
 }
 
 body {
-  background-color: #f7f7f7;
+  background-color: #8EC5FC;
+  background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -103,11 +104,11 @@ h4 {
   position: absolute;
   top: 50%;
   left: 0;
-  transform: translate(-100%, -50%);
+  transform: translate(-120%, -50%);
   opacity: 0;
   transition: opacity 0.3s ease;
 }
-.list li:hover .delete-btn {
+.list li:hover .btn-delete {
   opacity: 2;
 }
 
