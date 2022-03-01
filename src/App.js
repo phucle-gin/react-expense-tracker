@@ -6,7 +6,6 @@ import { TransactionList } from "./components/TransactionList";
 import { AddTransaction } from "./components/AddTransaction";
 import { GlobalProvider } from "./context/GlobalState";
 import "./App.css";
-import Particles from "react-tsparticles";
 import ParticleBackground from "./ParticleBackground";
 
 function App() {
