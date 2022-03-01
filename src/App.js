@@ -6,22 +6,14 @@ import { TransactionList } from "./components/TransactionList";
 import { AddTransaction } from "./components/AddTransaction";
 import { GlobalProvider } from "./context/GlobalState";
 import "./App.css";
+
 import ParticleBackground from "./ParticleBackground";
 
 function App() {
   return (
     <GlobalProvider>
       <ParticleBackground />
-      <div
-        style={{
-          position: "absolute",
-          top: 0,
-          right: 0,
-          left: 0,
-          justifyContent: "center",
-        }}
-        className="container"
-      >
+      <div className="container">
         <Header />
         <Balance />
         <IncomeExpenses />
